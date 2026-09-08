@@ -7,7 +7,7 @@ function App() {
 
       {/* Navigation Bar */}
       <nav className="navbar">
-        <h2 className="logo">Sravani</h2>
+        <h2 className="logo"> Konnuru Sravani</h2>
 
         <div className="nav-links">
           <a href="#home">Home</a>
